@@ -1,5 +1,4 @@
-# order-summary-component
-![image](https://user-images.githubusercontent.com/98355491/173905913-20c8a00f-d40a-4974-9a90-760c0fa2b0f6.png)
+
 # Frontend Mentor - Order summary card solution
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
@@ -60,5 +59,5 @@ I would like to learn and use Flexbox in order to create the same column layout.
 
 ## Author
 
-- Frontend Mentor - [@nees101](https://www.frontendmentor.io/profile/nees101)
-- Twitter - [@NeethuN96203540 ](https://www.twitter.com/NeethuN96203540 )
+- Frontend Mentor - [@khaled-benahmed](https://www.frontendmentor.io/profile/khaled-benahmed)
+- Twitter - [@bnahmed_khaled ](https://twitter.com/bnahmed_khaled)

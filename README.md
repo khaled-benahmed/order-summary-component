@@ -9,7 +9,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -32,11 +31,6 @@ Users should be able to:
 
 ![image](https://user-images.githubusercontent.com/98355491/173905913-20c8a00f-d40a-4974-9a90-760c0fa2b0f6.png)
 ![image](https://user-images.githubusercontent.com/98355491/173908508-4aa3c2e0-a95d-45ab-b578-7baeca47194f.png)
-
-### Links
-
-- Solution URL: [nees101/frontendmentor](https://www.frontendmentor.io/solutions/responsive-site-using-css-and-bootstrap-868Rk1jRZ#comment-611c9b2330d21659ace4be54)
-- Live Site URL: [nees101/github.io]( https://nees101.github.io/Order-Summary-Component-Solution/)
 
 ## My process
 
